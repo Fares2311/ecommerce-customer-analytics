@@ -1,0 +1,24 @@
+{
+  "clean_lines": 1021252,
+  "net_revenue": 18927420.899999972,
+  "customers": 5833,
+  "orders": 39516,
+  "best_month": "2011-11-01 00:00:00",
+  "return_rate": 0.03647075721681194,
+  "retention_month_1": 0.2334457660216581,
+  "retention_month_12": 0.22741212550129747,
+  "champions_customer_share": 0.14518340761055878,
+  "champions_revenue_share": 0.5303099244791123,
+  "product_share_for_80pct_revenue": 0.2125051082958725,
+  "top_10pct_customers_revenue_share": 0.632058345735306,
+  "kmeans_k": 4,
+  "silhouette_by_k": {
+    "2": 0.442,
+    "3": 0.349,
+    "4": 0.368,
+    "5": 0.347,
+    "6": 0.335,
+    "7": 0.304,
+    "8": 0.294
+  }
+}

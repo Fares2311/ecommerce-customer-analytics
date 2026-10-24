@@ -1,0 +1,9 @@
+step,lines
+raw lines,1067371
+exact duplicates removed,34335
+bad-debt adjustments (A invoices),6
+"non-product codes (postage, fees, vouchers...)",5817
+zero or negative price,5961
+clean lines (sales + returns),1021252
+  of which returns (C invoices),17914
+  of which without customer id,227089

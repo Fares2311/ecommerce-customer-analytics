@@ -1,0 +1,5 @@
+cluster,name,customers,median_recency_days,median_frequency,median_monetary,revenue,revenue_share
+2,"High-value, active",1194,17.0,13.0,4797.755000000001,12063189.89,0.7372880349595152
+3,"Mid-value, lapsed",1436,185.0,4.0,1426.7849999999999,2662368.27,0.16272082989873785
+0,"Mid-value, active",1255,24.0,3.0,705.79,1028451.42,0.06285774603711582
+1,"One-time, lapsed",1948,402.0,1.0,266.4,607560.55,0.03713338910463112
