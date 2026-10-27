@@ -1,6 +1,6 @@
 # E-commerce Customer Analytics
 
-[![CI](https://github.com/Fares2311/ecommerce-customer-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Fares2311/ecommerce-customer-analytics/actions/workflows/ci.yml)
+[![CI](https://github.com/fareszid/ecommerce-customer-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/fareszid/ecommerce-customer-analytics/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
@@ -125,7 +125,7 @@ cancellations. This matters: one customer ordered 80,995 units and cancelled 12 
 ## Run it
 
 ```bash
-git clone https://github.com/Fares2311/ecommerce-customer-analytics.git
+git clone https://github.com/fareszid/ecommerce-customer-analytics.git
 cd ecommerce-customer-analytics
 python -m venv .venv && source .venv/bin/activate
 make install     # pip install -e ".[dev]"
